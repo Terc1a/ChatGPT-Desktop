@@ -1,0 +1,7 @@
+.venv/
+.claude/
+cache/
+output/
+storage/
+webview_data/
+chatgpt_cef.py
