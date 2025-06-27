@@ -5,3 +5,5 @@ output/
 storage/
 webview_data/
 chatgpt_cef.py
+ChatGPT_Desktop.iss
+.idea/
